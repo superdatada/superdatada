@@ -1,4 +1,4 @@
-![Logo de SD](/Superdatada.png)
+![Logo de SD](/superdatada_.png)
 
 # ✨ Bienvenides al repo oficial de **Superdatada** ✨  
 
