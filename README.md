@@ -53,14 +53,14 @@ Superdatada no es solo un equipo. Es una red de personas que:
 
 ---
 
-## 🛠️ ¿Querés aportar?
+## 🛠️ ¿Quieres aportar?
 
 Aunque este repo es **oficial y curado**, siempre estamos abiertos a sumar miradas nuevas.  
-Si encontrás algo que te inspire, que te despierte dudas o que quieras expandir:
+Si encuentras algo que te inspire, que te despierte dudas o que quieras expandir:
 
-1. Abrí un issue 🧾  
-2. Proponé un cambio vía PR ⚙️  
-3. O simplemente compartilo con alguien más 🙌  
+1. Abre un issue 🧾  
+2. Propón un cambio vía PR ⚙️  
+3. O simplemente compártelo con alguien más 🙌  
 
 ---
 
